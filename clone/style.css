@@ -1,0 +1,17 @@
+
+
+.container{
+    width: 900px;
+    height: 900px;
+   
+}
+
+h1, h3{
+    text-align: center;
+    font-family: Lato
+}
+img{
+    width: 800px;
+    height: 250px;
+    
+}
